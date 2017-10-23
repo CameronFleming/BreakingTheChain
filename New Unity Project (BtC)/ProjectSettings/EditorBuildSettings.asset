@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Block A.unity
+    guid: c004a858b167c384ca14188c59216da0
+  - enabled: 1
+    path: Assets/Scenes/Counting Sheep.unity
+    guid: b812f1ddcaacc8447999215a7da53522
+  - enabled: 1
+    path: Assets/Scenes/Football Mania.unity
+    guid: 36ad5ff61bb1df04e97a1b6f10518317
+  - enabled: 1
+    path: Assets/Scenes/Colour Coordinator.unity
+    guid: 15d18172d49cf1341a4a41286eecec49
